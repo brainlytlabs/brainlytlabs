@@ -310,11 +310,11 @@ Continuous Improvement
 *"Building intelligent software that transforms ideas into reality."*
 
 </div>
----
+
 
 # 🤝 Connect With Us
 
-<div align="center">
+<>
 
 <a href="https://www.linkedin.com/company/your-link">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
