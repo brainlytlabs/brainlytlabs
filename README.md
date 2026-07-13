@@ -134,4 +134,189 @@ To become a globally recognized AI technology company delivering intelligent sof
 
 ### 🚀 "Innovate • Build • Impact"
 
+---
+
+# 🚀 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,django,flask,html,css,tailwind,bootstrap,mongodb,mysql,postgresql,firebase,docker,kubernetes,git,github,linux,vscode,figma,postman&perline=10"/>
+
+</p>
+
+---
+
+# 🤖 Artificial Intelligence & Data Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,nginx,linux"/>
+
+</p>
+
+---
+
+# 💻 Development Workflow
+
+```text
+Planning
+      │
+      ▼
+Research & Analysis
+      │
+      ▼
+UI / UX Design
+      │
+      ▼
+Backend Development
+      │
+      ▼
+AI Integration
+      │
+      ▼
+Testing & Optimization
+      │
+      ▼
+Deployment
+      │
+      ▼
+Continuous Improvement
+```
+
+---
+
+# 🚀 Services
+
+| Service | Description |
+|---------|-------------|
+| 🤖 AI Agent Development | Intelligent AI assistants for business automation |
+| 💬 LLM Applications | Chatbots, RAG systems, copilots & AI assistants |
+| 🌐 Full Stack Development | Modern web applications using React, FastAPI & Node.js |
+| 📊 Data Analytics | Dashboards, BI solutions and predictive analytics |
+| 👁 Computer Vision | Image classification, OCR & object detection |
+| ⚡ Process Automation | Workflow automation using AI |
+| ☁️ Cloud Solutions | Deployment on AWS, Azure & Google Cloud |
+| 🔗 API Development | REST APIs & AI integrations |
+
+---
+
+# 📊 Technical Proficiency
+
+| Technology | Level |
+|------------|-------|
+| Python | ██████████ 95% |
+| Artificial Intelligence | ██████████ 95% |
+| Machine Learning | █████████░ 90% |
+| Generative AI | █████████░ 90% |
+| FastAPI | █████████░ 90% |
+| React | ████████░░ 85% |
+| Docker | ████████░░ 85% |
+| SQL | ████████░░ 85% |
+| Cloud Computing | ████████░░ 80% |
+| DevOps | ███████░░░ 75% |
+
+---
+
+# 📌 Areas of Expertise
+
+✅ AI Agents
+
+✅ Large Language Models
+
+✅ Retrieval-Augmented Generation (RAG)
+
+✅ Prompt Engineering
+
+✅ AI Automation
+
+✅ Chatbots
+
+✅ Computer Vision
+
+✅ Deep Learning
+
+✅ NLP
+
+✅ REST APIs
+
+✅ Cloud Deployment
+
+✅ Microservices
+
+✅ SaaS Development
+
+---
+
+# 🎯 Industries We Build For
+
+🏥 Healthcare
+
+🏦 Finance
+
+🎓 Education
+
+🛒 E-Commerce
+
+🏭 Manufacturing
+
+🚚 Logistics
+
+📈 Marketing
+
+⚖ Legal Tech
+
+🏢 Enterprise Solutions
+
+🌍 Startups
+
+---
+
+# 📈 Company Goals
+
+🎯 Build next-generation AI applications.
+
+🎯 Contribute to the open-source AI community.
+
+🎯 Develop scalable SaaS platforms.
+
+🎯 Deliver enterprise-grade AI automation.
+
+🎯 Create intelligent products that solve real-world problems.
+
+---
+
+<div align="center">
+
+## ⚡ Innovation Through Artificial Intelligence
+
+*"Building intelligent software that transforms ideas into reality."*
+
+</div>
+
 </div>
