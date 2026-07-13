@@ -375,12 +375,12 @@ Brainlyt Labs is powered by a passionate team of developers, AI engineers, desig
 
 ### 🚀 We Believe In
 
-- 💡 Innovation through Artificial Intelligence
-- 🤝 Collaboration & Knowledge Sharing
-- 🌍 Building Open-Source Solutions
-- 🔒 Security & Scalability
-- 📚 Continuous Learning
-- ⚡ Delivering High-Quality Products
+💡 Innovation through Artificial Intelligence
+🤝 Collaboration & Knowledge Sharing
+🌍 Building Open-Source Solutions
+🔒 Security & Scalability
+📚 Continuous Learning
+⚡ Delivering High-Quality Products
 
 ---
 
