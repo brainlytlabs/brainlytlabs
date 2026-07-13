@@ -1,5 +1,5 @@
 <div align="center">
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-00C2FF?style=for-the-badge)
+ 
 # 🚀 Brainlyt Labs
 
 ### Building AI Products for the Future
