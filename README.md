@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/brainlytlabs/brainlytlabs/main/assets/banner_1.png" width="100%" alt="Brainlyt Labs Banner">
-
-# 🚀 Brainlyt Labs
-
+ 
 ### Building AI Products for the Future
 
 <p align="center">
