@@ -318,5 +318,124 @@ Continuous Improvement
 *"Building intelligent software that transforms ideas into reality."*
 
 </div>
+---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brainlytlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainlytlabs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=brainlytlabs&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=brainlytlabs&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brainlytlabs&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🌍 Profile Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=brainlytlabs&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/brainlytlabs?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/brainlytlabs?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📅 Development Activity
+
+| Metric | Status |
+|---------|--------|
+| 🚀 Active Development | ✅ |
+| 🤖 AI Projects | ✅ |
+| 🌍 Open Source | ✅ |
+| 📚 Continuous Learning | ✅ |
+| 💻 Full Stack Development | ✅ |
+| ☁️ Cloud Deployment | ✅ |
+
+---
+
+# ⚡ Development Philosophy
+
+```text
+Think.
+Design.
+Build.
+Test.
+Deploy.
+Improve.
+Repeat.
+```
+
+---
+
+# 🎯 Current Focus
+
+```text
+🧠 AI Agents
+
+💬 Large Language Models (LLMs)
+
+📄 Retrieval-Augmented Generation (RAG)
+
+⚡ AI Automation
+
+🌐 SaaS Products
+
+☁️ Cloud Deployment
+
+📊 Data Analytics
+
+🚀 Open Source Projects
+```
+
+---
+
+# 💼 Open Source Commitment
+
+At Brainlyt Labs, we believe in contributing to the global developer community by creating open-source tools, reusable libraries, educational resources, and AI-powered solutions.
+
+We actively work on projects that help developers, startups, students, and businesses build faster, smarter, and more efficiently using modern AI technologies.
+
+---
+
+<div align="center">
+
+### ⭐ If you like our work, consider following our journey and starring our repositories!
+
+</div>
 </div>
