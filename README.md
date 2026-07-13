@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/brainlytlabs/brainlytlabs/main/assets/banner.png" width="100%" alt="Brainlyt Labs Banner">
+<img src="https://raw.githubusercontent.com/brainlytlabs/brainlytlabs/main/assets/banner_1.png" width="100%" alt="Brainlyt Labs Banner">
 
 # 🚀 Brainlyt Labs
 
@@ -132,7 +132,7 @@ To become a globally recognized AI technology company delivering intelligent sof
 
 <div align="center">
 
-### 🚀 "Innovate • Build • Impact"
+### "Innovate • Build • Impact"
 
 ---
 
