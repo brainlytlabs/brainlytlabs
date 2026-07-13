@@ -130,12 +130,6 @@ To become a globally recognized AI technology company delivering intelligent sof
 
 ---
 
-<div align="center">
-
-### "Innovate • Build • Impact"
-
----
-
 # 🚀 Technology Stack
 
 <p align="center">
@@ -354,17 +348,6 @@ Brainlyt Labs is powered by a passionate team of developers, AI engineers, desig
 | 🎨 UI/UX Designers | User Experience & Product Design |
 | ☁️ DevOps Engineers | Cloud Infrastructure & Deployment |
 | 📊 Data Scientists | Analytics, NLP & Computer Vision |
-
----
-
-### 🚀 We Believe In
-
-💡 Innovation through Artificial Intelligence
-🤝 Collaboration & Knowledge Sharing
-🌍 Building Open-Source Solutions
-🔒 Security & Scalability
-📚 Continuous Learning
-⚡ Delivering High-Quality Products
 
 ---
 
